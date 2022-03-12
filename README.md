@@ -27,6 +27,6 @@
 <h1>https://semir-hamidovic.netlify.app/</h1>
 
 
-https://user-images.githubusercontent.com/91470593/157996466-9eea5b12-f44a-472d-9d23-3786f429a29c.mp4
+
 
 
