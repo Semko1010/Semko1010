@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semir Hamidovic</h1>
 <h3 align="center">A passionate frontend developer from Kaiserslautern</h3>
 
-- 🔭 I’m currently working on [my portfolio site](https://semir-hamidovic.netlify.app/)
+- 🔭 My Portfilio (https://semir-hamidovic.netlify.app/)
 
 - 🌱 I’m currently learning **React Native**
 
